@@ -54,7 +54,7 @@
     "extra": {
         "branch-alias": {
             "dev-master": "3.0.x-dev",
-            "add_support_for_fos_user2": "add_support_for_fos_user2"
+            "fosuser2": "add_support_for_fos_user2"
         }
     }
 }
